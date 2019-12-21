@@ -1,5 +1,2 @@
 DISABLE_COLLECTSTATIC=1
 DISABLE_MIGRATE=1
-HTTP_PROXY=gateway.docker.internal:3128
-HTTPS_PROXY=gateway.docker.internal:3129
-NO_PROXY=172.30.1.1
